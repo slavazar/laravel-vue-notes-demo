@@ -5,4 +5,4 @@ Laravel Sanctum
 Vue JS (Router, Pinia)
 
 Demo site
-http://vue-notes-demo.weblab.pw/login
+http://vue-notes-demo.prowebagency.top/
